@@ -4,3 +4,4 @@ This folder contains code for Collaborative Filtering recommendation system usin
 
 Original Author: Pratima Kshetry
 Student at: University of Maryland, College Park
+Technologies Used: Hadoop, MapReduce, Java
