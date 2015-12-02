@@ -40,10 +40,9 @@ public class ClusterCombineMR extends Configured implements Tool {
 	    {		
 						
 			String strValue=value.toString();	
-			//format of strValue 0807281956-0939173344:4-4,5-5
-			//Extract key
+			
 			int ndx=strValue.indexOf(':');			
-			//Remaining will be value
+		
 			String strKey=strValue.substring(0,ndx);
 			String strVal=strValue.substring(ndx+1,strValue.length());
 			//System.out.println(strKey+"->"+strVal);
@@ -97,9 +96,9 @@ public class ClusterCombineMR extends Configured implements Tool {
 	    		for (Text val : values) 
 	    		{	
 	    		    String strValue=val.toString();
-	    		   //format of strValue 4-4,5-5
+	    		  
 	    			String[] valuePair=strValue.split(",");
-	    			//stVal should be of form 4-4
+	    		
 	    			for(String stVal:valuePair)
 	    			{
 		    			String[] stRatings=stVal.split("-");	    			
