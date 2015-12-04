@@ -1,0 +1,501 @@
+# Full information about Amazon Share the Love products
+Total items: 548552
+
+Id:   0
+ASIN: 0771044445
+  discontinued product
+
+Id:   1
+ASIN: 0827229534
+  title: Patterns of Preaching: A Sermon Sampler
+  group: Book
+  salesrank: 396585
+  similar: 5  0804215715  156101074X  0687023955  0687074231  082721619X
+  categories: 2
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Christianity[12290]|Clergy[12360]|Preaching[12368]
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Christianity[12290]|Clergy[12360]|Sermons[12370]
+  reviews: total: 2  downloaded: 2  avg rating: 5
+    2000-7-28  cutomer: A2JW67OY8U6HHK  rating: 5  votes:  10  helpful:   9
+    2003-12-14  cutomer: A2VE83MZF98ITY  rating: 5  votes:   6  helpful:   5
+
+Id:   2
+ASIN: 0738700797
+  title: Candlemas: Feast of Flames
+  group: Book
+  salesrank: 168596
+  similar: 5  0738700827  1567184960  1567182836  0738700525  0738700940
+  categories: 2
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Earth-Based Religions[12472]|Wicca[12484]
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Earth-Based Religions[12472]|Witchcraft[12486]
+  reviews: total: 12  downloaded: 12  avg rating: 4.5
+    2001-12-16  cutomer: A11NCO6YTE4BTJ  rating: 5  votes:   5  helpful:   4
+    2002-1-7  cutomer:  A9CQ3PLRNIR83  rating: 4  votes:   5  helpful:   5
+    2002-1-24  cutomer: A13SG9ACZ9O5IM  rating: 5  votes:   8  helpful:   8
+    2002-1-28  cutomer: A1BDAI6VEYMAZA  rating: 5  votes:   4  helpful:   4
+    2002-2-6  cutomer: A2P6KAWXJ16234  rating: 4  votes:  16  helpful:  16
+    2002-2-14  cutomer:  AMACWC3M7PQFR  rating: 4  votes:   5  helpful:   5
+    2002-3-23  cutomer: A3GO7UV9XX14D8  rating: 4  votes:   6  helpful:   6
+    2002-5-23  cutomer: A1GIL64QK68WKL  rating: 5  votes:   8  helpful:   8
+    2003-2-25  cutomer:  AEOBOF2ONQJWV  rating: 5  votes:   8  helpful:   5
+    2003-11-25  cutomer: A3IGHTES8ME05L  rating: 5  votes:   5  helpful:   5
+    2004-2-11  cutomer: A1CP26N8RHYVVO  rating: 1  votes:  13  helpful:   9
+    2005-2-7  cutomer:  ANEIANH0WAT9D  rating: 5  votes:   1  helpful:   1
+
+Id:   3
+ASIN: 0486287785
+  title: World War II Allied Fighter Planes Trading Cards
+  group: Book
+  salesrank: 1270652
+  similar: 0
+  categories: 1
+   |Books[283155]|Subjects[1000]|Home & Garden[48]|Crafts & Hobbies[5126]|General[5144]
+  reviews: total: 1  downloaded: 1  avg rating: 5
+    2003-7-10  cutomer: A3IDGASRQAW8B2  rating: 5  votes:   2  helpful:   2
+
+Id:   4
+ASIN: 0842328327
+  title: Life Application Bible Commentary: 1 and 2 Timothy and Titus
+  group: Book
+  salesrank: 631289
+  similar: 5  0842328130  0830818138  0842330313  0842328610  0842328572
+  categories: 5
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Christianity[12290]|Reference[172810]|Commentaries[12155]|New Testament[12159]
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Christianity[12290]|Christian Living[12333]|Discipleship[12335]
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Christianity[12290]|Bibles[12059]|Translations[764432]|Life Application[572080]
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Bible & Other Sacred Texts[12056]|Bible[764430]|New Testament[572082]
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Christianity[12290]|Bibles[12059]|Study Guides, History & Reference[764438]|General[572094]
+  reviews: total: 1  downloaded: 1  avg rating: 4
+    2004-8-19  cutomer: A2591BUPXCS705  rating: 4  votes:   1  helpful:   1
+
+Id:   5
+ASIN: 1577943082
+  title: Prayers That Avail Much for Business: Executive
+  group: Book
+  salesrank: 455160
+  similar: 5  157794349X  0892749504  1577941829  0892749563  1577946006
+  categories: 2
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Christianity[12290]|Worship & Devotion[12465]|Prayerbooks[12470]
+   |Books[283155]|Subjects[1000]|Religion & Spirituality[22]|Christianity[12290]|Christian Living[12333]|Business[297488]
+  reviews: total: 0  downloaded: 0  avg rating: 0
+
+Id:   6
+ASIN: 0486220125
+  title: How the Other Half Lives: Studies Among the Tenements of New York
+  group: Book
+  salesrank: 188784
+  similar: 5  0486401960  0452283612  0486229076  0714840343  0374528993
+  categories: 5
+   |Books[283155]|Subjects[1000]|Arts & Photography[1]|Photography[2020]|Photo Essays[2082]
+   |Books[283155]|Subjects[1000]|History[9]|Americas[4808]|United States[4853]|General[4870]
+   |Books[283155]|Subjects[1000]|History[9]|Jewish[4992]|General[4993]
+   |Books[283155]|Subjects[1000]|Nonfiction[53]|Social Sciences[11232]|Sociology[11288]|Urban[11296]
+   |[172282]|Categories[493964]|Camera & Photo[502394]|Photography Books[733540]|Photo Essays[733676]
+  reviews: total: 17  downloaded: 17  avg rating: 4
+    1997-7-4  cutomer:  ATVPDKIKX0DER  rating: 5  votes:  12  helpful:  11
+    1998-10-11  cutomer:  AUEZ7NVOEHYRY  rating: 5  votes:  13  helpful:  12
+    1999-4-15  cutomer:  ATVPDKIKX0DER  rating: 5  votes:  18  helpful:   7
+    2000-1-4  cutomer:  AJYG6ZJUQPZ9M  rating: 4  votes:  14  helpful:  10
+    2000-2-8  cutomer: A2ESGJTTLJWIAK  rating: 5  votes:  17  helpful:  11
+    2000-4-28  cutomer: A2CHULHAO3A9BY  rating: 5  votes:  23  helpful:  16
+    2001-10-9  cutomer: A3BNWP7ATVP045  rating: 5  votes:   7  helpful:   6
+    2002-9-26  cutomer:   AVOQ12GBXJ3F  rating: 2  votes:   6  helpful:   0
+    2002-11-8  cutomer: A2NJO6YE954DBH  rating: 5  votes:  23  helpful:  21
+    2002-12-4  cutomer: A393PYR83LT7R8  rating: 1  votes:   8  helpful:   8
+    2003-4-21  cutomer:  AVY10FEFM6OBC  rating: 4  votes:   7  helpful:   1
+    2003-7-24  cutomer: A2OSPW11FVXTU6  rating: 4  votes:   3  helpful:   2
+    2003-10-10  cutomer: A32Z5HQGTG5V49  rating: 4  votes:   7  helpful:   4
+    2003-10-21  cutomer: A2WSI8HOWHFDOT  rating: 5  votes:  27  helpful:  25
+    2003-10-26  cutomer: A3BGC9MSXGM0WH  rating: 4  votes:  13  helpful:  10
+    2003-12-30  cutomer: A1IU7S4HCK1XK0  rating: 5  votes:   4  helpful:   4
+    2004-5-1  cutomer: A30JTDN020MAJB  rating: 4  votes:   4  helpful:   4
+
+Id:   7
+ASIN: B00000AU3R
+  title: Batik
+  group: Music
+  salesrank: 5392
+  similar: 5  B00002616C  B0000261KX  B00006AM8D  B000059OB9  B0000261O7
+  categories: 3
+   |Music[5174]|Styles[301668]|Jazz[34]|General[63926]
+   |Music[5174]|Styles[301668]|Jazz[34]|Modern Postbebop[63929]
+   |Music[5174]|Specialty Stores[468040]|Imports[701208]|Jazz[916554]
+  reviews: total: 3  downloaded: 3  avg rating: 4.5
+    2000-5-22  cutomer: A2O3PW57IFNUHV  rating: 5  votes:  10  helpful:  10
+    2002-8-19  cutomer: A3FNRL9QYZOBDH  rating: 4  votes:   0  helpful:   0
+    2003-5-15  cutomer: A3SWAHVVHVPKWZ  rating: 5  votes:   5  helpful:   5
+
+Id:   8
+ASIN: 0231118597
+  title: Losing Matt Shepard
+  group: Book
+  salesrank: 277409
+  similar: 5  B000067D0Y  0375727191  080148605X  1560232579  0300089023
+  categories: 4
+   |Books[283155]|Subjects[1000]|Gay & Lesbian[301889]|Nonfiction[10703]|General[10716]
+   |Books[283155]|Subjects[1000]|Nonfiction[53]|Crime & Criminals[11003]|Criminology[11005]
+   |Books[283155]|Subjects[1000]|Nonfiction[53]|Politics[11079]|General[11083]
+   |Books[283155]|Subjects[1000]|Nonfiction[53]|Politics[11079]|U.S.[11117]
+  reviews: total: 15  downloaded: 15  avg rating: 4.5
+    2000-10-31  cutomer: A2F1X6YFCJZ1FH  rating: 5  votes:  10  helpful:   9
+    2000-11-1  cutomer: A1OZQCZAK21S6M  rating: 5  votes:  13  helpful:  12
+    2000-11-19  cutomer:  AL5D52NA8F67F  rating: 5  votes:  16  helpful:  13
+    2001-4-16  cutomer:  AVFBIM1W41IXO  rating: 1  votes:   0  helpful:   0
+    2001-5-10  cutomer: A3I6SOXDIE0M8R  rating: 5  votes:   6  helpful:   6
+    2001-7-1  cutomer: A3559TE3F9RRNL  rating: 5  votes:   5  helpful:   5
+    2001-8-25  cutomer:  ASPUU0H77LFXG  rating: 5  votes:   3  helpful:   3
+    2001-9-13  cutomer: A3L902U49A6X5K  rating: 5  votes:   6  helpful:   6
+    2001-10-25  cutomer:  AL5OEDM8TPTKV  rating: 5  votes:  10  helpful:  10
+    2001-11-3  cutomer: A1R64WON03GTN4  rating: 5  votes:   1  helpful:   1
+    2001-12-24  cutomer: A2WKESDGF2YC8S  rating: 5  votes:   8  helpful:   8
+    2001-12-31  cutomer:  A71P2O8OMF8GY  rating: 5  votes:   7  helpful:   5
+    2002-4-9  cutomer:  AB8HLDYSDI5M7  rating: 4  votes:  10  helpful:   4
+    2002-9-23  cutomer: A37FDCXZLI0MAC  rating: 2  votes:  12  helpful:   5
+    2003-9-3  cutomer:  AQE41QO3NEUMW  rating: 5  votes:   3  helpful:   2
+
+Id:   9
+ASIN: 1859677800
+  title: Making Bread: The Taste of Traditional Home-Baking
+  group: Book
+  salesrank: 949166
+  similar: 0
+  categories: 1
+   |Books[283155]|Subjects[1000]|Cooking, Food & Wine[6]|Baking[4196]|Bread[4197]
+  reviews: total: 0  downloaded: 0  avg rating: 0
+
+Id:   10
+ASIN: 0375709363
+  title: The Edward Said Reader
+  group: Book
+  salesrank: 220379
+  similar: 5  039474067X  0679730672  0679750541  1400030668  0896086704
+  categories: 3
+   |Books[283155]|Subjects[1000]|Literature & Fiction[17]|History & Criticism[10204]|Criticism & Theory[10207]|General[10213]
+   |Books[283155]|Subjects[1000]|Nonfiction[53]|Politics[11079]|History & Theory[11086]
+   |Books[283155]|Subjects[1000]|Nonfiction[53]|Social Sciences[11232]|Anthropology[11233]|Cultural[11235]
+  reviews: total: 6  downloaded: 6  avg rating: 4
+    2000-10-8  cutomer: A2RI73IFW2GWU1  rating: 4  votes:  12  helpful:   7
+    2001-5-4  cutomer: A1GE54WF2WUZ2X  rating: 5  votes:  11  helpful:   8
+    2001-8-27  cutomer: A36S399V1VC4DR  rating: 4  votes:   5  helpful:   3
+    2002-1-26  cutomer: A280GY5UVUS2QH  rating: 3  votes:  12  helpful:   7
+    2004-4-7  cutomer: A2YHZJIU4L4IOI  rating: 4  votes:  10  helpful:   2
+    2004-4-27  cutomer: A1MB83EO48TRSC  rating: 4  votes:   5  helpful:   3
+
+Id:   11
+ASIN: 0871318237
+  title: Resetting the Clock : Five Anti-Aging Hormones That Improve and Extend Life
+  group: Book
+  salesrank: 412962
+  similar: 5  1591200695  0060984341  0553577514  1571742972  0962741817
+  categories: 4
+   |Books[283155]|Subjects[1000]|Health, Mind & Body[10]|Alternative Medicine[4696]|General[4701]
+   |Books[283155]|Subjects[1000]|Medicine[13996]|Alternative & Holistic[14038]|General[14046]
+   |Books[283155]|Subjects[1000]|Professional & Technical[173507]|Medical[173514]|Alternative Medicine[227583]|General[227584]
+   |Books[283155]|Specialty Stores[504360]|jp-unknown2[1061350]
+  reviews: total: 1  downloaded: 1  avg rating: 5
+    2000-4-11  cutomer: A2A1TNBFJNRADP  rating: 5  votes:  23  helpful:  21
+
+Id:   12
+ASIN: 1590770218
+  title: Fantastic Food with Splenda : 160 Great Recipes for Meals Low in Sugar, Carbohydrates, Fat, and Calories
+  group: Book
+  salesrank: 24741
+  similar: 5  0871319640  0399530258  1590770536  158040197X  1569244286
+  categories: 9
+   |Books[283155]|Subjects[1000]|Cooking, Food & Wine[6]|Cooking by Ingredient[4208]|Herbs, Spices & Condiments[4211]
+   |Books[283155]|Subjects[1000]|Cooking, Food & Wine[6]|General[4233]
+   |Books[283155]|Subjects[1000]|Cooking, Food & Wine[6]|Special Diet[4317]|Diabetic & Sugar-Free[4318]
+   |Books[283155]|Subjects[1000]|Cooking, Food & Wine[6]|Special Diet[4317]|Low Fat[4323]
+   |Books[283155]|Subjects[1000]|Health, Mind & Body[10]|Nutrition[282861]|General[4628]
+   |Books[283155]|Subjects[1000]|Health, Mind & Body[10]|Diets & Weight Loss[4613]|Special Conditions[4632]|Low Carbohydrate[4639]
+   |Books[283155]|Subjects[1000]|Health, Mind & Body[10]|Diets & Weight Loss[4613]|Special Conditions[4632]|Low Sugar[4642]
+   |Books[283155]|Subjects[1000]|Health, Mind & Body[10]|Diets & Weight Loss[4613]|Special Conditions[4632]|Low-Fat Diet[282849]
+   |Books[283155]|Subjects[1000]|Health, Mind & Body[10]|Diets & Weight Loss[4613]|Diets[4615]|Low Carb[10924671]
+  reviews: total: 12  downloaded: 12  avg rating: 4.5
+    2004-4-21  cutomer: A2V9UBVMQFDV20  rating: 5  votes:   8  helpful:   8
+    2004-6-6  cutomer: A3NXQLHXJZO5FB  rating: 5  votes:   4  helpful:   4
+    2004-7-5  cutomer: A1RNV50D6DNE42  rating: 1  votes:   7  helpful:   3
+    2004-7-8  cutomer: A3FVNS48MY8L32  rating: 5  votes:  13  helpful:  13
+    2004-7-19  cutomer: A1WC6GEAVET9K8  rating: 5  votes:   6  helpful:   5
+    2004-8-22  cutomer: A1PH1HGK2HFQ9G  rating: 5  votes:   5  helpful:   4
+    2004-10-9  cutomer: A1DOK8OJ386KDS  rating: 5  votes:  11  helpful:  10
+    2004-12-28  cutomer: A1E4FW0F5R7TOY  rating: 4  votes:   8  helpful:   4
+    2005-3-8  cutomer: A14OJS0VWMOSWO  rating: 5  votes:   7  helpful:   4
+    2005-3-28  cutomer: A3UDEP0MTKLLL2  rating: 5  votes:   5  helpful:   4
+    2005-5-28  cutomer: A19UTUEBWKIZFT  rating: 1  votes:   4  helpful:   1
+    2005-6-19  cutomer: A35X1EMOVF90JG  rating: 5  votes:   2  helpful:   2
+
+Id:   13
+ASIN: 0313230269
+  title: Clockwork Worlds : Mechanized Environments in SF (Contributions to the Study of Science Fiction and Fantasy)
+  group: Book
+  salesrank: 2895088
+  similar: 0
+  categories: 3
+   |Books[283155]|Subjects[1000]|Literature & Fiction[17]|History & Criticism[10204]|Criticism & Theory[10207]|General[10213]
+   |Books[283155]|Subjects[1000]|Science Fiction & Fantasy[25]|Fantasy[16190]|History & Criticism[16203]
+   |Books[283155]|Subjects[1000]|Science Fiction & Fantasy[25]|Science Fiction[16272]|History & Criticism[16288]
+  reviews: total: 0  downloaded: 0  avg rating: 0
+
+Id:   14
+ASIN: B00004W1W1
+  title: Later...
+  group: Music
+  salesrank: 390624
+  similar: 0
+  categories: 2
+   |Music[5174]|Styles[301668]|Jazz[34]|General[63926]
+   |Music[5174]|Specialty Stores[468040]|Indie Music[266023]|Jazz[171246]|General[520200]
+  reviews: total: 0  downloaded: 0  avg rating: 0
+
+Id:   15
+ASIN: 1559362022
+  title: Wake Up and Smell the Coffee
+  group: Book
+  salesrank: 518927
+  similar: 5  1559360968  1559361247  1559360828  1559361018  0743214552
+  categories: 3
+   |Books[283155]|Subjects[1000]|Literature & Fiction[17]|Drama[2159]|United States[2160]
+   |Books[283155]|Subjects[1000]|Arts & Photography[1]|Performing Arts[521000]|Theater[2154]|General[2218]
+   |Books[283155]|Subjects[1000]|Literature & Fiction[17]|Authors, A-Z[70021]|( B )[70023]|Bogosian, Eric[70116]
+  reviews: total: 8  downloaded: 8  avg rating: 4
+    2002-5-13  cutomer: A2IGOA66Y6O8TQ  rating: 5  votes:   3  helpful:   2
+    2002-6-17  cutomer: A2OIN4AUH84KNE  rating: 5  votes:   2  helpful:   1
+    2003-1-2  cutomer: A2HN382JNT1CIU  rating: 1  votes:   6  helpful:   1
+    2003-6-7  cutomer: A2FDJ79LDU4O18  rating: 4  votes:   1  helpful:   1
+    2003-6-27  cutomer: A39QMV9ZKRJXO5  rating: 4  votes:   1  helpful:   1
+    2004-2-17  cutomer:  AUUVMSTQ1TXDI  rating: 1  votes:   2  helpful:   0
+    2004-2-24  cutomer: A2C5K0QTLL9UAT  rating: 5  votes:   2  helpful:   2
+    2004-10-13  cutomer:  A5XYF0Z3UH4HB  rating: 5  votes:   1  helpful:   1
+
+Id:   16
+ASIN: 0195110382
+  title: War at Sea: A Naval History of World War II
+  group: Book
+  salesrank: 631564
+  similar: 5  1585741485  0140246967  1557504288  0374205183  0553802577
+  categories: 3
+   |Books[283155]|Subjects[1000]|History[9]|Military[5011]|Naval[5018]
+   |Books[283155]|Subjects[1000]|History[9]|Military[5011]|World War II[5031]|General[465308]
+   |Books[283155]|Subjects[1000]|History[9]|Military[5011]|World War II[5031]|Naval[465318]
+  reviews: total: 10  downloaded: 10  avg rating: 4.5
+    1998-7-24  cutomer: A2C4FHNHVRR8JZ  rating: 5  votes:   3  helpful:   2
+    1999-3-17  cutomer:  ATVPDKIKX0DER  rating: 5  votes:   4  helpful:   3
+    2000-3-28  cutomer: A1XPCHKIFECW33  rating: 4  votes:   3  helpful:   3
+    2000-5-3  cutomer: A17VTMYNK7FHHG  rating: 5  votes:   4  helpful:   3
+    2000-11-6  cutomer: A331OF34UX4Y1K  rating: 4  votes:   3  helpful:   2
+    2000-12-2  cutomer: A3KMI0ZF739BW5  rating: 5  votes:   4  helpful:   3
+    2001-10-7  cutomer: A26BWRBPP4V2WF  rating: 4  votes:   5  helpful:   5
+    2002-6-18  cutomer: A3AAX9AO0CIFBI  rating: 5  votes:   2  helpful:   2
+    2002-8-9  cutomer: A2DOKCCVTGTAE2  rating: 5  votes:   1  helpful:   1
+    2004-5-17  cutomer: A1BVYFPZ0ZAYYV  rating: 3  votes:   1  helpful:   0
+
+Id:   17
+ASIN: 0849311012
+  title: Telecommunications Cost Management
+  group: Book
+  salesrank: 570183
+  similar: 4  0071410546  1580531784  1578200326  B0000A2W55
+  categories: 7
+   |Books[283155]|Subjects[1000]|Business & Investing[3]|Management & Leadership[2675]|Management[2683]
+   |Books[283155]|Subjects[1000]|Computers & Internet[5]|Hardware[549652]|Microprocessors & System Design[3723]|General[3731]
+   |Books[283155]|Subjects[1000]|Engineering[13643]|General[13756]
+   |Books[283155]|Subjects[1000]|Engineering[13643]|Telecommunications[13809]|General[13813]
+   |Books[283155]|Subjects[1000]|Engineering[13643]|Industrial, Manufacturing & Operational Systems[13759]|Engineering Economics[226701]
+   |Books[283155]|Subjects[1000]|Computers & Internet[5]|General[657762]
+   |[265523]|Amazon.com Stores[285080]|Home & Office[764512]|Business & Investing Books[767740]|Management & Leadership[767992]|Management[768000]
+  reviews: total: 3  downloaded: 3  avg rating: 3.5
+    2002-11-28  cutomer: A3DMU8D8N76WRH  rating: 5  votes:   4  helpful:   3
+    2003-10-29  cutomer:  AH1H2DBKZ8WFA  rating: 5  votes:   3  helpful:   2
+    2004-6-6  cutomer: A3S1M10UPEQ3ED  rating: 1  votes:   5  helpful:   4
+
+Id:   18
+ASIN: B000007R0T
+  title: Sol to Soul
+  group: Music
+  salesrank: 109301
+  similar: 5  B000059QC1  B00000JQIE  B00029J1X6  B0006TRO68  B000002L7F
+  categories: 1
+   |Music[5174]|Styles[301668]|Jazz[34]|General[63926]
+  reviews: total: 15  downloaded: 15  avg rating: 5
+    1998-12-11  cutomer:  ATVPDKIKX0DER  rating: 5  votes:   0  helpful:   0
+    1998-12-11  cutomer:  ATVPDKIKX0DER  rating: 5  votes:   5  helpful:   3
+    1999-3-1  cutomer: A21F29TO32JOU5  rating: 5  votes:   5  helpful:   0
+    1999-4-24  cutomer: A37S91N4IX72W2  rating: 5  votes:   7  helpful:   0
+    1999-5-7  cutomer: A1SXWD2D3W3TXK  rating: 5  votes:   7  helpful:   6
+    2000-1-1  cutomer:  AKMBV0IV5WIC5  rating: 5  votes:   2  helpful:   0
+    2000-1-1  cutomer:  AKMBV0IV5WIC5  rating: 5  votes:  15  helpful:  14
+    2001-2-27  cutomer: A3QSUZVVNYZZ7L  rating: 5  votes:   6  helpful:   1
+    2001-6-28  cutomer: A1HNKSWGRW0YKB  rating: 5  votes:   0  helpful:   0
+    2001-6-28  cutomer: A1HNKSWGRW0YKB  rating: 5  votes:   1  helpful:   1
+    2001-8-13  cutomer:  ABSIJ0Q8N0VKP  rating: 3  votes:   0  helpful:   0
+    2001-8-16  cutomer: A388KDPHUB94V3  rating: 5  votes:   0  helpful:   0
+    2001-10-9  cutomer:  ATT0FBIM6YNX7  rating: 5  votes:   0  helpful:   0
+    2002-2-7  cutomer: A1LFRJ3CSQFCI6  rating: 5  votes:   2  helpful:   2
+    2003-5-13  cutomer: A1UPGL67SKBSPJ  rating: 5  votes:   0  helpful:   0
+
+Id:   19
+ASIN: 078510870X
+  title: Ultimate Marvel Team-Up
+  group: Book
+  salesrank: 612475
+  similar: 5  0785114572  078511078X  0785114033  0785114041  0785113126
+  categories: 4
+   |Books[283155]|Subjects[1000]|Children's Books[4]|Literature[2966]|Science Fiction, Fantasy, Mystery & Horror[3013]|Comics & Graphic Novels[3014]
+   |Books[283155]|Subjects[1000]|Comics & Graphic Novels[4366]|Publishers[4396]|Marvel[4400]
+   |Books[283155]|Subjects[1000]|Teens[28]|Science Fiction & Fantasy[17466]|Fantasy[17468]
+   |Books[283155]|Subjects[1000]|Comics & Graphic Novels[4366]|Graphic Novels[4390]|Superheroes[3825121]
+  reviews: total: 8  downloaded: 8  avg rating: 3.5
+    2002-3-23  cutomer: A1RLXSCKKMI4KF  rating: 3  votes:   9  helpful:   5
+    2002-9-29  cutomer:  ATS7LYGLUX34L  rating: 5  votes:   3  helpful:   3
+    2002-10-3  cutomer:  ATS7LYGLUX34L  rating: 5  votes:   2  helpful:   2
+    2002-11-7  cutomer: A3DQ6L24TOMXAZ  rating: 4  votes:  10  helpful:  10
+    2003-3-17  cutomer: A3M6J4CTJ13QBX  rating: 2  votes:  11  helpful:   4
+    2003-12-3  cutomer:  A4JP4T1F95D0A  rating: 2  votes:   0  helpful:   0
+    2004-3-14  cutomer: A2S166WSCFIFP5  rating: 4  votes:   5  helpful:   2
+    2004-10-20  cutomer:  ADC571K8L3ZLN  rating: 4  votes:   6  helpful:   6
+
+Id:   20
+ASIN: 3895780812
+  title: Computed Tomography : Fundamentals, System Technology, Image Quality, Applications
+  group: Book
+  salesrank: 179448
+  similar: 5  0865778973  0071343547  0721662854  0721681735  0819444251
+  categories: 3
+   |Books[283155]|Subjects[1000]|Medicine[13996]|Specialties[225827]|Radiology[14403]|General[14407]
+   |Books[283155]|Subjects[1000]|Professional & Technical[173507]|Medical[173514]|Medicine[265542]|Internal Medicine[227203]|Radiology[227708]|General[227709]
+   |Books[283155]|Subjects[1000]|Computers & Internet[5]|General[657762]
+  reviews: total: 1  downloaded: 1  avg rating: 5
+    2001-2-8  cutomer:  AWHGCJOOZBTB5  rating: 5  votes:  10  helpful:  10
+
+Id:   21
+ASIN: 0790747324
+  title: The Time Machine
+  group: DVD
+  salesrank: 795
+  similar: 5  B00007JMD8  6305350221  B00004RF9B  B00005JKFR  B00005NG6A
+  categories: 26
+   |[139452]|DVD[130]|Genres[404276]|Drama[163379]|General[163390]
+   |[139452]|DVD[130]|Genres[404276]|Science Fiction & Fantasy[163431]|Fantasy[163440]
+   |[139452]|DVD[130]|Genres[404276]|Science Fiction & Fantasy[163431]|General[163442]
+   |[139452]|DVD[130]|Genres[404276]|Science Fiction & Fantasy[163431]|Classic Sci-Fi[292650]
+   |[139452]|DVD[130]|Genres[404276]|Science Fiction & Fantasy[163431]|Monsters & Mutants[292662]
+   |[139452]|DVD[130]|Genres[404276]|Science Fiction & Fantasy[163431]|By Theme[292669]|Time Travel[292667]
+   |[139452]|DVD[130]|Actors & Actresses[404278]|( B )[411316]|Bissell, Whit[413160]
+   |[139452]|DVD[130]|Actors & Actresses[404278]|( C )[416120]|Cabot, Sebastian[416132]
+   |[139452]|DVD[130]|Actors & Actresses[404278]|( F )[422476]|Frees, Paul[423942]
+   |[139452]|DVD[130]|Actors & Actresses[404278]|( H )[426368]|Helmore, Tom[427584]
+   |[139452]|DVD[130]|Actors & Actresses[404278]|( L )[432148]|Lloyd, Doris[433832]
+   |[139452]|DVD[130]|Actors & Actresses[404278]|( M )[434574]|Mimieux, Yvette[437458]
+   |[139452]|DVD[130]|Actors & Actresses[404278]|( T )[448792]|Taylor, Rod[449112]
+   |[139452]|DVD[130]|Actors & Actresses[404278]|( Y )[453438]|Young, Alan[453620]
+   |[139452]|DVD[130]|Directors[403502]|( P )[460606]|Pal, George[460622]
+   |[139452]|DVD[130]|Genres[404276]|Art House & International[163313]|By Theme[502916]|Costume Adventures[502980]
+   |[139452]|DVD[130]|Genres[404276]|Drama[163379]|Classics[524228]
+   |[139452]|DVD[130]|Special Features[408328]|Today's Deals in DVD[409298]|Deals Under $15[565160]
+   |[139452]|DVD[130]|Special Features[408328]|Titles[579510]|( T )[579550]
+   |[139452]|DVD[130]|Genres[404276]|Art House & International[163313]|By Country[284926]|United Kingdom[579580]|General[579588]
+   |[139452]|DVD[130]|Specialty Stores[498862]|Studio Specials[468374]|Warner Home Video[515794]|Drama[600318]
+   |[139452]|DVD[130]|Specialty Stores[498862]|Studio Specials[468374]|Warner Home Video[515794]|All Titles[600330]
+   |[139452]|DVD[130]|Specialty Stores[498862]|Studio Specials[468374]|Warner Home Video[515794]|Classics[600334]
+   |[265523]|Amazon.com Stores[285080]|Amazon.com Outlet[517808]|Categories[526028]|DVD Outlet[734006]|Deals Under $15[734042]
+   |[139452]|DVD[130]|Genres[404276]|Science Fiction & Fantasy[163431]|Futuristic[735728]
+   |[139452]|DVD[130]|Specialty Stores[498862]|Studio Specials[468374]|Warner Home Video[515794]|DVDs Under $15[1038542]
+  reviews: total: 140  downloaded: 140  avg rating: 4.5
+    1998-12-27  cutomer: A3D0FUIHSMCHXG  rating: 5  votes:   1  helpful:   1
+    1998-12-28  cutomer: A106FE8HPE6LK6  rating: 4  votes:   9  helpful:   9
+    1999-4-19  cutomer: A1Y6LC4JFBCGZN  rating: 4  votes:   6  helpful:   6
+    1999-5-11  cutomer: A2A1EHOGR8MW0I  rating: 5  votes:   1  helpful:   1
+    1999-6-9  cutomer: A3I7CRNHGZVWXP  rating: 5  votes:   2  helpful:   2
+    1999-6-10  cutomer: A2GEKIVHR1VSHQ  rating: 4  votes:   0  helpful:   0
+    1999-6-10  cutomer:  AKQV65L3TAIW8  rating: 5  votes:   1  helpful:   1
+    1999-6-12  cutomer:  ATVPDKIKX0DER  rating: 5  votes:  20  helpful:  19
+    1999-6-12  cutomer:  ATVPDKIKX0DER  rating: 5  votes:   1  helpful:   1
+    1999-6-20  cutomer: A2MOT9BXC3C6H2  rating: 5  votes:   0  helpful:   0
+    1999-7-2  cutomer: A2003P5YJPPC6P  rating: 5  votes:   2  helpful:   2
+    1999-7-26  cutomer:  AWQXPWBP93Z4K  rating: 5  votes:   2  helpful:   2
+    1999-9-4  cutomer: A11XDEU9VOOWYN  rating: 5  votes:   4  helpful:   2
+    1999-9-4  cutomer: A3J953WDIBQX63  rating: 5  votes:   2  helpful:   2
+    1999-10-28  cutomer: A13JXEPCPXNUCI  rating: 5  votes:  27  helpful:  26
+    1999-10-28  cutomer: A1928PHI4RBCQ9  rating: 5  votes:   5  helpful:   4
+    1999-12-5  cutomer:  AFZLD0HDJVJUJ  rating: 4  votes:   1  helpful:   1
+    1999-12-30  cutomer:  AQXLBK2CDW2DP  rating: 1  votes:  41  helpful:   1
+    2000-2-1  cutomer: A1H2SCAYWQLMC0  rating: 5  votes:   5  helpful:   3
+    2000-3-14  cutomer:  A1RPTVW5VEOSI  rating: 4  votes:   1  helpful:   0
+    2000-4-2  cutomer:  AIMBOX2T0HV1H  rating: 4  votes:   7  helpful:   5
+    2000-5-25  cutomer: A1J3HK3IPLHOJ3  rating: 5  votes:   2  helpful:   2
+    2000-5-29  cutomer:  ATVPDKIKX0DER  rating: 5  votes:   1  helpful:   1
+    2000-6-20  cutomer: A3NGH3DOKQFCWD  rating: 4  votes:   0  helpful:   0
+    2000-6-25  cutomer: A3LFRQVRXBTNCG  rating: 5  votes:   3  helpful:   2
+    2000-6-28  cutomer: A31HYO7EOTZG1Y  rating: 5  votes:   0  helpful:   0
+    2000-6-28  cutomer:  A8473S963WDUZ  rating: 5  votes:   0  helpful:   0
+    2000-6-30  cutomer: A1L7G9JSLCY384  rating: 5  votes:   1  helpful:   1
+    2000-7-2  cutomer:  AXY18W5QMN7UV  rating: 5  votes:   2  helpful:   2
+    2000-8-7  cutomer: A2X666IM8DP7PH  rating: 5  votes:   1  helpful:   0
+    2000-9-8  cutomer:  A96DHMTN072M1  rating: 5  votes:   1  helpful:   1
+    2000-9-16  cutomer:  AH64IJELQ4PJN  rating: 5  votes:  23  helpful:  22
+    2000-9-20  cutomer: A39ABH4E0APOG3  rating: 5  votes:  13  helpful:  13
+    2000-9-23  cutomer: A2X44DD1TN0P13  rating: 4  votes:   0  helpful:   0
+    2000-10-2  cutomer: A2AML5BI49ST3F  rating: 5  votes:   6  helpful:   5
+    2000-10-2  cutomer:  AES0JMK0KYYHI  rating: 5  votes:  12  helpful:  10
+    2000-10-3  cutomer: A16VWWB8G00EPV  rating: 4  votes:   6  helpful:   5
+    2000-10-8  cutomer: A1BWHXTFOVF9CY  rating: 5  votes:  33  helpful:  32
+    2000-10-10  cutomer: A1UVMG7COVPLC6  rating: 5  votes:   3  helpful:   3
+    2000-10-18  cutomer: A2RFZ21T1WOLID  rating: 2  votes:   4  helpful:   2
+    2000-10-19  cutomer: A2KFUFXQ1YTWNT  rating: 5  votes:   7  helpful:   6
+    2000-11-1  cutomer: A14QW3EMN8PBZV  rating: 5  votes:   1  helpful:   1
+    2000-11-1  cutomer: A14QW3EMN8PBZV  rating: 5  votes:   8  helpful:   7
+    2000-11-25  cutomer: A20EEWWSFMZ1PN  rating: 5  votes:   2  helpful:   2
+    2000-12-26  cutomer: A22IK3I6U76GX0  rating: 5  votes:   4  helpful:   3
+    2001-1-7  cutomer:  AU8552YCOO5QX  rating: 2  votes:   4  helpful:   0
+    2001-1-15  cutomer:  AA5ELPH4F7AIP  rating: 1  votes:  21  helpful:   3
+    2001-4-18  cutomer: A324LH8S4C8U4W  rating: 5  votes:   1  helpful:   1
+    2001-5-12  cutomer: A2D9IEFJGB483Q  rating: 5  votes:   3  helpful:   3
+    2001-6-8  cutomer:  AEXTGSES7BVSV  rating: 5  votes:   1  helpful:   1
+    2001-6-11  cutomer: A1RT82AIQFRRQS  rating: 5  votes:   1  helpful:   1
+    2001-6-16  cutomer:  ARFBRSE35ZJ6A  rating: 4  votes:   3  helpful:   3
+    2001-6-25  cutomer: A2ZYH9XRO507OB  rating: 5  votes:   1  helpful:   1
+    2001-7-3  cutomer: A3HPOCPJJQNMWN  rating: 5  votes:   3  helpful:   2
+    2001-7-7  cutomer: A3LFZOAGD8JTE9  rating: 5  votes:   3  helpful:   0
+    2001-8-3  cutomer: A20IOTRKF4YRM7  rating: 5  votes:   0  helpful:   0
+    2001-8-19  cutomer: A1BRXLFWILNICE  rating: 5  votes:  10  helpful:  10
+    2001-9-17  cutomer: A3VXU7BEE97UUG  rating: 1  votes:   7  helpful:   0
+    2001-9-29  cutomer: A2B8DJ0CKN9FAO  rating: 5  votes:   3  helpful:   2
+    2001-10-8  cutomer:  AGOG7P9R8NZ7T  rating: 5  votes:   3  helpful:   1
+    2002-2-6  cutomer: A3ICHEO78NFE4Y  rating: 5  votes:   1  helpful:   1
+    2002-2-9  cutomer: A2D75DJ707PFI9  rating: 5  votes:   4  helpful:   3
+    2002-2-24  cutomer:  A92LD431P843F  rating: 5  votes:   8  helpful:   7
+    2002-3-7  cutomer: A2YD21XOPJ966C  rating: 5  votes:   7  helpful:   5
+    2002-3-12  cutomer: A1HY9XRPW8N2HN  rating: 4  votes:   3  helpful:   2
+    2002-3-13  cutomer: A1J2931UBBJPXM  rating: 4  votes:   3  helpful:   3
+    2002-3-15  cutomer: A13PCJSIRWAKHE  rating: 5  votes:   3  helpful:   2
+    2002-3-16  cutomer: A2WZ1B92F81LJJ  rating: 4  votes:   2  helpful:   2
+    2002-3-31  cutomer: A3UF0YWSR4I2HL  rating: 5  votes:   4  helpful:   2
+    2002-4-2  cutomer: A25JH6CO4DVINS  rating: 4  votes:   6  helpful:   4
+    2002-4-5  cutomer: A106FE8HPE6LK6  rating: 4  votes:   4  helpful:   3
+    2002-4-17  cutomer: A1T0Z4J5PPLTC7  rating: 4  votes:  11  helpful:   8
+    2002-4-28  cutomer: A24FSR37TN4MSF  rating: 5  votes:   5  helpful:   3
+    2002-5-9  cutomer: A3NOIRVMZQEBQ9  rating: 1  votes:  19  helpful:   2
+    2002-5-25  cutomer: A1APMHP8DPIS3G  rating: 5  votes:   3  helpful:   1
+    2002-5-28  cutomer: A3RRBPUGD7UOSP  rating: 5  votes:   3  helpful:   0
+    2002-6-3  cutomer: A1GGHFJL5TSU5J  rating: 5  votes:   3  helpful:   1
+    2002-6-27  cutomer: A2CXT3A901DGMP  rating: 4  votes:   2  helpful:   1
+    2002-7-1  cutomer: A2W00XKTTF1G0Z  rating: 5  votes:  12  helpful:  10
+    2002-7-19  cutomer: A31RM5QU797HPJ  rating: 4  votes:   5  helpful:   1
+    2002-8-2  cutomer: A2IMHV5ZARXIDR  rating: 5  votes:   4  helpful:   3
+    2002-8-3  cutomer: A3P121GNV5QYIN  rating: 5  votes:   2  helpful:   1
+    2002-8-5  cutomer: A3P121GNV5QYIN  rating: 5  votes:   4  helpful:   4
+    2002-8-10  cutomer: A3O2RCKAMSE9X7  rating: 5  votes:   5  helpful:   4
+    2002-8-21  cutomer: A13JQOKQVCMN9U  rating: 5  votes:   4  helpful:   2
+    2002-8-31  cutomer: A27QZDO1FRRFCV  rating: 4  votes:   5  helpful:   1
+    2002-9-16  cutomer: A3439X75UP0Q3G  rating: 4  votes:   2  helpful:   1
+    2002-9-24  cutomer: A1I7GHG2XNYO3J  rating: 5  votes:   2  helpful:   1
+    2002-9-30  cutomer: A3D550GH0U6T5C  rating: 5  votes:   2  helpful:   2
+    2002-10-2  cutomer: A2RD0B8LLOSMCQ  rating: 3  votes:   6  helpful:   4
+    2002-10-19  cutomer: A2SGR7LE899LGG  rating: 5  votes:   2  helpful:   1
+    2002-10-21  cutomer:  AYPCUQS6ARWFH  rating: 4  votes:   7  helpful:   7
+    2002-11-27  cutomer: A2XLGLF0V4O7JD  rating: 5  votes:   1  helpful:   1
+    2002-12-14  cutomer: A2KVUYPLEW4LXT  rating: 5  votes:   5  helpful:   5
+    2002-12-23  cutomer:  AJYGQV81FSFE2  rating: 4  votes:   2  helpful:   2
+    2003-1-12  cutomer: A1SWK29E1MZHI6  rating: 5  votes:   1  helpful:   1
+    2003-2-1  cutomer: A2NJO6YE954DBH  rating: 4  votes:   8  helpful:   6
+    2003-2-14  cutomer: A2AOZQ3WTNVVOK  rating: 5  votes:   7  helpful:   7
