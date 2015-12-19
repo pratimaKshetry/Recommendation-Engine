@@ -1,3 +1,7 @@
+/******************
+Original Author: Pratima Kshetry
+*/
+
 package pkCustomerProfile;
 
 public class ProductProfile {
