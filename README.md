@@ -21,6 +21,7 @@ Technologies Used: Hadoop, MapReduce, Java
 ------The Scammers folder contains the user logs that have been classified as Scammers-NonScammers.
 
 ------The Screenshots folder contains few screenshots of the system
+------The SystemDesign document constains the design document. you may like to check this folder to learn about the design of the system.
 
 Browse to specific folders to see the output generated after each task was performed. The naming conventions for these output folder follow the type of output it contains. For example, the output for product profile is contained in the folder ProductProfile.
 
