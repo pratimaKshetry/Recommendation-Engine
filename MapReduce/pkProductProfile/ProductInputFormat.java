@@ -1,3 +1,7 @@
+/******************
+Original Author: Pratima Kshetry
+*/
+
 package pkProductProfile;
 
 import java.io.IOException;
