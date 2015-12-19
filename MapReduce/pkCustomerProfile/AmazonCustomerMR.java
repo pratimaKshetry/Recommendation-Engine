@@ -1,3 +1,6 @@
+/* Original Author: Pratima Kshetry*********************************
+*****Generates customer profile using MapReduce****************************/
+
 package pkCustomerProfile;
 
 import java.io.IOException;
