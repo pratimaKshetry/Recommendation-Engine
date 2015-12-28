@@ -1,6 +1,6 @@
 # CollaborativeFilteringRecommendation
 
-This project builds a collaborative filtering recommendation engine using MapReduce.
+This project builds a collaborative filtering Recommendation Engine using MapReduce and Hadoop.
 
 Original Author: Pratima Kshetry
 Student at: University of Maryland, College Park
