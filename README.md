@@ -3,7 +3,7 @@
 This project builds a Collaborative Filtering Recommendation Engine using MapReduce and Hadoop.
 
 ********Original Author: Pratima Kshetry******************************************************************************************
-Student at: University of Maryland, College Park
+University of Maryland, College Park
 Technologies Used: Hadoop, MapReduce, Java
 **************************************************************************************************************************************
 
