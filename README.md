@@ -9,6 +9,7 @@ Technologies Used: Hadoop, MapReduce, Java
 
 ################################################################################
 *******************************Folder Structure*********************************
+
 ------The MapReduce folder contains all the source code.
 
 ------The ClusterCorrelation folder contains output files that were generated after generating cluster points from the amazon data.
