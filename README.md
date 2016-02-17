@@ -12,6 +12,8 @@ Technologies Used: Hadoop, MapReduce, Java
 
 ------The MapReduce folder contains all the source code.
 
+------The Jpegs folder contain the screenshots of the system
+
 ------The ClusterCorrelation folder contains output files that were generated after generating cluster points from the amazon data.
 
 ------The CustomerProfile folder contains all the customer profiles data generated from the data.
